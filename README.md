@@ -1,1 +1,2 @@
-#chat en c
+#chat c using socket 
+
